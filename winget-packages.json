@@ -1,0 +1,170 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "WinGetVersion": "1.4.3132-preview",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "7zip.7zip"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Atlassian.Sourcetree"
+        },
+        {
+          "PackageIdentifier": "GitHub.GitHubDesktop"
+        },
+        {
+          "PackageIdentifier": "Amazon.AWSCLI"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureCLI"
+        },
+        {
+          "PackageIdentifier": "GitHub.cli"
+        },
+        {
+          "PackageIdentifier": "LINQPad.LINQPad.7"
+        },
+        {
+          "PackageIdentifier": "BleachBit.BleachBit"
+        },
+        {
+          "PackageIdentifier": "Brave.Brave"
+        },
+        {
+          "PackageIdentifier": "Google.Chrome"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Edge.Dev"
+        },
+        {
+          "PackageIdentifier": "Mozilla.Firefox"
+        },
+        {
+          "PackageIdentifier": "Canonical.Ubuntu.2204"
+        },
+        {
+          "PackageIdentifier": "kalilinux.kalilinux"
+        },
+        {
+          "PackageIdentifier": "Chocolatey.ChocolateyGUI"
+        },
+        {
+          "PackageIdentifier": "CoreyButler.NVMforWindows"
+        },
+        {
+          "PackageIdentifier": "Yarn.Yarn"
+        },
+        {
+          "PackageIdentifier": "Docker.DockerDesktop"
+        },
+        {
+          "PackageIdentifier": "GoLang.Go.1.19"
+        },
+        {
+          "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureCosmosEmulator"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureStorageEmulator"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureStorageExplorer"
+        },
+        {
+          "PackageIdentifier": "Microsoft.OpenJDK.17"
+        },
+        {
+          "PackageIdentifier": "OpenWhisperSystems.Signal"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.Professional"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode.Insiders"
+        },
+        {
+          "PackageIdentifier": "Microsoft.SQLServerManagementStudio"
+        },
+        {
+          "PackageIdentifier": "Microsoft.AzureDataStudio"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal.Preview"
+        },
+        {
+          "PackageIdentifier": "JetBrains.Toolbox"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Office"
+        },
+        {
+          "PackageIdentifier": "Postman.Postman"
+        },
+        {
+          "PackageIdentifier": "PuTTY.PuTTY"
+        },
+        {
+          "PackageIdentifier": "Telerik.Fiddler.Classic"
+        },
+        {
+          "PackageIdentifier": "Notepad++.Notepad++"
+        },
+        {
+          "PackageIdentifier": "RescueTime.DesktopApp"
+        },
+        {
+          "PackageIdentifier": "VMware.WorkstationPlayer"
+        },
+        {
+          "PackageIdentifier": "Yubico.YubikeyManager"
+        },
+        {
+          "PackageIdentifier": "NickeManarin.ScreenToGif"
+        },
+        {
+          "PackageIdentifier": "REALiX.HWiNFO"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Teams"
+        },
+        {
+          "PackageIdentifier": "SlackTechnologies.Slack"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "9P7KNL5RWT25"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+        "Identifier": "StoreEdgeFD",
+        "Name": "msstore",
+        "Type": "Microsoft.Rest"
+      }
+    }
+  ]
+}
