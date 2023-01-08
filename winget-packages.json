@@ -144,6 +144,9 @@
         },
         {
           "PackageIdentifier": "SlackTechnologies.Slack"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerToys"
         }
       ],
       "SourceDetails": {
