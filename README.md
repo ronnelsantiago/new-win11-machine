@@ -73,6 +73,7 @@ Microsoft.Edge.Dev
 Microsoft.Office
 Microsoft.OpenJDK.17
 Microsoft.PowerShell
+Microsoft.PowerToys
 Microsoft.SQLServerManagementStudio
 Microsoft.Teams
 Microsoft.VisualStudio.2022.Community
