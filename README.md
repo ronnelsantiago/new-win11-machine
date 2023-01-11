@@ -84,6 +84,7 @@ Mozilla.Firefox
 NickeManarin.ScreenToGif
 Notepad++.Notepad++
 OpenWhisperSystems.Signal
+Oracle.VirtualBox
 paint.net
 Postman.Postman
 PuTTY.PuTTY
