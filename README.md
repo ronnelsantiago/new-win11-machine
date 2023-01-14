@@ -60,6 +60,7 @@ GitHub.cli
 GitHub.GitHubDesktop
 GoLang.Go.1.19
 Google.Chrome
+Hashicorp.Vagrant
 JanDeDobbeleer.OhMyPosh
 JetBrains.Toolbox
 kalilinux.kalilinux

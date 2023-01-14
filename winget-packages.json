@@ -150,6 +150,9 @@
         },
         {
           "PackageIdentifier": "Oracle.VirtualBox"
+        },
+        {
+          "PackageIdentifier": "Hashicorp.Vagrant"
         }
       ],
       "SourceDetails": {
