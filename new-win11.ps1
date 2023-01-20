@@ -147,6 +147,8 @@ Write-Host "Setting autostash with git pull --rebase" -ForegroundColor Magenta
 git config --global pull.rebase true
 git config --global rebase.autoStash true
 
+git config --global push.autoSetupRemote true
+
 $directories = @(
     "c:\repos"
     "c:\temp"
