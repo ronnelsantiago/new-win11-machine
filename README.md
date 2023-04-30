@@ -58,7 +58,7 @@ Docker.DockerDesktop
 Git.Git
 GitHub.cli
 GitHub.GitHubDesktop
-GoLang.Go.1.19
+GoLang.Go
 Google.Chrome
 Hashicorp.Vagrant
 JanDeDobbeleer.OhMyPosh
@@ -66,10 +66,10 @@ JetBrains.Toolbox
 kalilinux.kalilinux
 LINQPad.LINQPad.7
 Microsoft.AzureCLI
-Microsoft.AzureCosmosEmulator
+Microsoft.Azure.CosmosEmulator
 Microsoft.AzureDataStudio
-Microsoft.AzureStorageEmulator
-Microsoft.AzureStorageExplorer
+Microsoft.Azure.StorageEmulator
+Microsoft.Azure.StorageExplorer
 Microsoft.Edge.Dev
 Microsoft.Office
 Microsoft.OpenJDK.17
