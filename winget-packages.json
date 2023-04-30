@@ -71,13 +71,13 @@
           "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
         },
         {
-          "PackageIdentifier": "Microsoft.AzureCosmosEmulator"
+          "PackageIdentifier": "Microsoft.Azure.CosmosEmulator"
         },
         {
-          "PackageIdentifier": "Microsoft.AzureStorageEmulator"
+          "PackageIdentifier": "Microsoft.Azure.StorageEmulator"
         },
         {
-          "PackageIdentifier": "Microsoft.AzureStorageExplorer"
+          "PackageIdentifier": "Microsoft.Azure.StorageExplorer"
         },
         {
           "PackageIdentifier": "Microsoft.OpenJDK.17"
