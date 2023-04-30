@@ -28,8 +28,7 @@ Write-Host "Installing WSL stuff and the default 'Ubuntu on Windows' distributio
 wsl --install
 
 Write-Host "Installing apps via winget" -ForegroundColor Magenta
-winget import -i .\winget-packages.json --accept-package-agreements --accept-source-agreements
-# bring back --disable-interactivity flag once winget version 1.4 is out
+winget import -i .\winget-packages.json --accept-package-agreements --accept-source-agreements --disable-interactivity --verbose
 
 # If you are running this on a VM you might get this error:
 # "Error: 0x80370102 The virtual machine could not be started because a required feature is not installed."
