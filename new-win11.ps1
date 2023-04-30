@@ -104,7 +104,7 @@ foreach ($Module in $ModulesToInstall) {
 }
 
 Write-Host "Adding contents to PwshProfile" -ForegroundColor Magenta
-$Contents = @"
+$Contents = @'
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\atomic.omp.json" | Invoke-Expression
 
 Import-Module -Name DockerCompletion
@@ -118,7 +118,7 @@ Set-PSReadLineOption -EditMode Windows
 
 Set-Alias -Name "d" -Value "docker"
 Set-Alias -Name "k" -Value "kubectl"
-"@
+'@
 Add-Content $PwshProfile $Contents
 
 Write-Host "Setting git aliases" -ForegroundColor Magenta
