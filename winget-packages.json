@@ -146,9 +146,6 @@
           "PackageIdentifier": "SlackTechnologies.Slack"
         },
         {
-          "PackageIdentifier": "Microsoft.PowerToys"
-        },
-        {
           "PackageIdentifier": "Oracle.VirtualBox"
         },
         {
