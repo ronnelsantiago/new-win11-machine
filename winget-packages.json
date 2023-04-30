@@ -65,7 +65,7 @@
           "PackageIdentifier": "Docker.DockerDesktop"
         },
         {
-          "PackageIdentifier": "GoLang.Go.1.19"
+          "PackageIdentifier": "GoLang.Go"
         },
         {
           "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
