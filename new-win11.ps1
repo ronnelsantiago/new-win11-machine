@@ -43,7 +43,6 @@ Write-Host "`tReloading PowerShell profile" -ForegroundColor Magenta
 
 Write-Progress -Activity "Installing chocolatey packages"
 $chocoPackages = @(
-    "paint.net"
     "baretail"
     "smtp4dev"
 )

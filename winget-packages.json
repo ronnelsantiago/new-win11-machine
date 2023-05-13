@@ -150,6 +150,9 @@
         },
         {
           "PackageIdentifier": "Hashicorp.Vagrant"
+        },
+        {
+          "PackageIdentifier": "dotPDNLLC.paintdotnet"
         }
       ],
       "SourceDetails": {
