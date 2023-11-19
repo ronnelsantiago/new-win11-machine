@@ -20,13 +20,7 @@
           "PackageIdentifier": "BleachBit.BleachBit"
         },
         {
-          "PackageIdentifier": "Brave.Brave"
-        },
-        {
           "PackageIdentifier": "Google.Chrome"
-        },
-        {
-          "PackageIdentifier": "Microsoft.Edge.Dev"
         },
         {
           "PackageIdentifier": "Mozilla.Firefox"
@@ -55,7 +49,6 @@
         {
           "PackageIdentifier": "Microsoft.VisualStudioCode"
         },
-        
         {
           "PackageIdentifier": "Microsoft.SQLServerManagementStudio"
         },
