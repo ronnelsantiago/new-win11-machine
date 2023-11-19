@@ -1,0 +1,120 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "WinGetVersion": "1.4.3132-preview",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Atlassian.Sourcetree"
+        },
+        {
+          "PackageIdentifier": "LINQPad.LINQPad.7"
+        },
+        {
+          "PackageIdentifier": "BleachBit.BleachBit"
+        },
+        {
+          "PackageIdentifier": "Brave.Brave"
+        },
+        {
+          "PackageIdentifier": "Google.Chrome"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Edge.Dev"
+        },
+        {
+          "PackageIdentifier": "Mozilla.Firefox"
+        },
+        {
+          "PackageIdentifier": "Chocolatey.ChocolateyGUI"
+        },
+        {
+          "PackageIdentifier": "CoreyButler.NVMforWindows"
+        },
+        {
+          "PackageIdentifier": "Yarn.Yarn"
+        },
+        {
+          "PackageIdentifier": "Docker.DockerDesktop"
+        },
+        {
+          "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+        },
+        {
+          "PackageIdentifier": "OpenWhisperSystems.Signal"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.Professional"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        
+        {
+          "PackageIdentifier": "Microsoft.SQLServerManagementStudio"
+        },
+        {
+          "PackageIdentifier": "JetBrains.Toolbox"
+        },
+        {
+          "PackageIdentifier": "Postman.Postman"
+        },
+        {
+          "PackageIdentifier": "Telerik.Fiddler.Classic"
+        },
+        {
+          "PackageIdentifier": "Notepad++.Notepad++"
+        },
+        {
+          "PackageIdentifier": "VMware.WorkstationPlayer"
+        },
+        {
+          "PackageIdentifier": "Yubico.YubikeyManager"
+        },
+        {
+          "PackageIdentifier": "NickeManarin.ScreenToGif"
+        },
+        {
+          "PackageIdentifier": "REALiX.HWiNFO"
+        },
+        {
+          "PackageIdentifier": "SlackTechnologies.Slack"
+        },
+        {
+          "PackageIdentifier": "Oracle.VirtualBox"
+        },
+        {
+          "PackageIdentifier": "Hashicorp.Vagrant"
+        },
+        {
+          "PackageIdentifier": "dotPDNLLC.paintdotnet"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "9P7KNL5RWT25"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+        "Identifier": "StoreEdgeFD",
+        "Name": "msstore",
+        "Type": "Microsoft.Rest"
+      }
+    }
+  ]
+}
