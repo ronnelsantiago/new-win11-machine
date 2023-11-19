@@ -126,7 +126,7 @@ git config --global alias.cob "checkout -b"
 git config --global alias.df "diff"
 git config --global alias.ec "config --global -e"
 git config --global alias.f "fetch origin --prune"
-git config --global alias.l "log -n 30 --oneline"
+git config --global alias.l "log -n 20 --oneline"
 git config --global alias.lga "log --graph --oneline --all --decorate"
 git config --global alias.st "status"
 
