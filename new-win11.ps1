@@ -166,12 +166,10 @@ foreach ($feature in $features) {
     Enable-WindowsOptionalFeature -Online -NoRestart -FeatureName $feature
 }
 
-$DownloadsDir = "$HOME\Downloads"
-$CascadiaCodeNerdFontZip = "$DownloadsDir\CascadiaCodeNF.zip"
-Invoke-WebRequest -Uri "https://github.com/ryanoasis/nerd-fonts/releases/latest/download/CascadiaCode.zip" -OutFile $CascadiaCodeNerdFontZip
-Expand-Archive -Path $CascadiaCodeNerdFontZip -DestinationPath "$DownloadsDir\CascadiaCodeNF" -Force
-Write-Host "See 'Downloads folder' and install the fonts manually for now, I only need 'Caskaydia Cove Nerd Font Complete Windows Compatible Regular.otf'"
-# Ref: https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode#which-font
+Write-Host "Installing Fonts" -ForegroundColor Magenta
+git clone https://github.com/ryanoasis/nerd-fonts.git --depth 1
+cd nerd-fonts
+./install.ps1 CascadiaCode
 
 $timer.Stop()
 Write-Host ""
