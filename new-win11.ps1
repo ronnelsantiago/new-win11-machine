@@ -133,8 +133,8 @@ git config --global alias.st "status"
 Write-Host "Setting VS Code as the Git editor" -ForegroundColor Magenta
 git config --global core.editor "code --wait"
 
-git config --global core.fsmonitor=true
-git config --global core.autocrlf=true
+git config --global core.fsmonitor true
+git config --global core.autocrlf true
 
 # https://cscheng.info/2017/01/26/git-tip-autostash-with-git-pull-rebase.html
 Write-Host "Setting autostash with git pull --rebase" -ForegroundColor Magenta
